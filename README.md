@@ -30,19 +30,20 @@ Facial emotion recognition is a process that uses artificial intelligence to ana
 https://drive.google.com/file/d/1Gmd3cbTFohimCey-1DJUWAOFJk5twf_s/view
 
 ## Project Requirements
-matplotlib          3.7.1
-numpy               1.22.4
-seaborn             0.12.2
-session_info        1.0.0
-sklearn             1.2.2
-torch               1.13.1+cu116
-torchvision         0.14.1+cu116
-tqdm                4.65.0
-
-IPython             7.9.0
-jupyter_client      6.1.12
-jupyter_core        5.3.0
-notebook            6.5.3
+matplotlib         &nbsp;&nbsp;&nbsp;&nbsp; 3.7.1  <br/>
+numpy              &nbsp;&nbsp;&nbsp;&nbsp; 1.22.4  <br/>
+seaborn            &nbsp;&nbsp;&nbsp;&nbsp; 0.12.2  <br/>
+session_info       &nbsp;&nbsp;&nbsp;&nbsp; 1.0.0  <br/>
+sklearn            &nbsp;&nbsp;&nbsp;&nbsp; 1.2.2  <br/>
+torch              &nbsp;&nbsp;&nbsp;&nbsp; 1.13.1+cu116  <br/>
+torchvision        &nbsp;&nbsp;&nbsp;&nbsp; 0.14.1+cu116  <br/>
+tqdm               &nbsp;&nbsp;&nbsp;&nbsp; 4.65.0  <br/>
+<br/>
+<br/>
+IPython            &nbsp;&nbsp;&nbsp;&nbsp; 7.9.0  <br/>
+jupyter_client     &nbsp;&nbsp;&nbsp;&nbsp; 6.1.12  <br/>
+jupyter_core       &nbsp;&nbsp;&nbsp;&nbsp; 5.3.0  <br/>
+notebook           &nbsp;&nbsp;&nbsp;&nbsp; 6.5.3  <br/>
 
 ## How to run? 
 ```
