@@ -29,6 +29,10 @@ Facial emotion recognition is a process that uses artificial intelligence to ana
 
 https://drive.google.com/file/d/1Gmd3cbTFohimCey-1DJUWAOFJk5twf_s/view
 
+## SavedModels link
+
+https://drive.google.com/file/d/1NHC3PanLMn3A3MntDgFh5Trpv-6UGzfR/view?usp=share_link
+
 ## Project Requirements
 matplotlib         &nbsp;&nbsp;&nbsp;&nbsp; 3.7.1  <br/>
 numpy              &nbsp;&nbsp;&nbsp;&nbsp; 1.22.4  <br/>
