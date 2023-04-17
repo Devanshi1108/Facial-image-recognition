@@ -66,7 +66,7 @@ Sample Datasets:
     modelPath = '/kaggle/input/sample2/TL_resnet18_FER2013.pth'
 ```
 
-##Source Code Package In PyTorch
+## Source Code Package In PyTorch
 1)9models.ipynb: This file contains the code for training, validating and testing the 9 models.
 2)TransferLearning.ipynb: This file contains the code for 2 transfer learning models.
 3)HyperparameterOptimisation.ipynb: This file contains the code for Hyperparameter Optimisation of 1 model.
