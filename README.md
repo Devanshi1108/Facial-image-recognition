@@ -4,22 +4,20 @@ Department of Computer Science and Software Engineering COMP 6721
 
 APPLIED ARTIFICIAL INTELLIGENCE
 
-Project
-
-## Group J
+Project Group J
 
 ## Authors
 
-Name: Jatin Arora 
+Name: Jatin Arora <br/>
 Applicant ID: 40225129
 
-Name: Rahul Singh 
+Name: Rahul Singh <br/>
 Applicant ID: 40228461
 
-Name: Devanshi Patel 
+Name: Devanshi Patel <br/>
 Applicant ID: 40172139
 
-Name: Reva Balasundaram 
+Name: Reva Balasundaram <br/>
 Applicant ID: 40227644
 
 ## High Level Description of Project
@@ -67,11 +65,11 @@ Sample Datasets:
 ```
 
 ## Source Code Package In PyTorch
-1)9models.ipynb: This file contains the code for training, validating and testing the 9 models.
-2)TransferLearning.ipynb: This file contains the code for 2 transfer learning models.
-3)HyperparameterOptimisation.ipynb: This file contains the code for Hyperparameter Optimisation of 1 model.
-4)Preprocessing.ipynb: This file contains the code used to preprocess the datasets.
-5)TestModelOnSample.ipynb: This file contains the code to test the sample dataset using the saved models that were trained earlier.
+1)9models.ipynb: This file contains the code for training, validating and testing the 9 models. <br/>
+2)TransferLearning.ipynb: This file contains the code for 2 transfer learning models. <br/>
+3)HyperparameterOptimisation.ipynb: This file contains the code for Hyperparameter Optimisation of 1 model. <br/>
+4)Preprocessing.ipynb: This file contains the code used to preprocess the datasets. <br/>
+5)TestModelOnSample.ipynb: This file contains the code to test the sample dataset using the saved models that were trained earlier. <br/>
 
 ## Description on how to obtain the Dataset 
 
